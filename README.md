@@ -1,3 +1,13 @@
+## 812A_Response
+#### Time overhead
+<img src="./img/A-1.png" width="50%">
+
+#### Memory overhead
+<img src="./img/A-2.png" width="50%">
+
+#### Communication overhead
+<img src="./img/A-3.png" width="50%">
+
 ## 812B_Response
 #### About accuracy, we set up precision, recall, and the F1 score for evaluation.
 <img src="./img/B-1.png" width="50%">
