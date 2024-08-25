@@ -23,6 +23,7 @@
 ## 812B_Response
 #### About accuracy, we set up precision, recall, and the F1 score for evaluation.
 <img src="./img/B-1.png" width="50%">
+<img src="./img/acc.png" width="35%">
 
 ## 812C_Response
 #### Overheads on existing work
