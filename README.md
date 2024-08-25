@@ -20,6 +20,13 @@
 #### Overheads on existing work
 <img src="./img/C-1.png" width="30%">
 
+#### Computation
+<img src="./img/D-1.png" width="50%">
+
+
+#### Communication
+<img src="./img/D-2.png" width="50%">
+
 ## 812D_Response
 #### SLT achieves linear time complexity and is at least 29.09% faster than linear and nonlinear MPC protocols.
 <img src="./img/D-1.png" width="50%">
