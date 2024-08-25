@@ -1,6 +1,6 @@
 ## C2: Security Proof (812A, 812D)
 #### Table C: UC framework
-<img src="./img/CC-1.png" width="50%">
+<img src="./img/CC-1.png" width="15%">
 
 ## 812A_Response
 #### Time overhead
